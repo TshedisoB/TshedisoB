@@ -1,8 +1,9 @@
-- 👋 I’m @TshedisoB
+- 👋 I’m @Tshediso Boshiana
 - 🏫 I'm currently a final year student at Sefako Makgatho Health Science University.
 - 📚 Majored in Computer Sciences and Statistics.
 - 👀 I’m interested in mobile and web applications development.
-- 🌱 I’m currently learning React javascript framework.
+- 📖 I have knowledge in HTML,CSS,JavaScript,Java,SQL,Linux,etc..
+- 🌱 I’m currently on Umuzi learnership(web development).
 - 📫 Email: tshedisoboshiana@gmail.com
 
 <!---
