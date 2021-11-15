@@ -1,4 +1,4 @@
-- 👋 I’m @Tshediso Boshiana
+- 👋 I’m Tshediso Boshiana
 - 🏫 I'm currently a final year student at Sefako Makgatho Health Science University.
 - 📚 Majored in Computer Sciences and Statistics.
 - 👀 I’m interested in mobile and web applications development.
