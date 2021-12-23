@@ -1,8 +1,8 @@
 - 👋 I’m Tshediso Boshiana
-- 🏫 I'm currently a final year student at Sefako Makgatho Health Science University.
+- 🏫 Graduate @ Sefako Makgatho Health Science University.
 - 📚 Majored in Computer Sciences and Statistics.
 - 👀 I’m interested in mobile and web applications development.
-- 📖 I have knowledge in HTML,CSS,C++,JavaScript,Java,SQL,Git,Linux,etc..
+- 📖 I have knowledge in HTML,CSS,C++,JavaScript,Java,SQL,Git,Linux,Unit testing, and much more.
 - 📫 Email: tshedisoboshiana@gmail.com
 - 🌐 Website: https://tshedisob.github.io
 
