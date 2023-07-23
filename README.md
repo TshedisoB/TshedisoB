@@ -1,10 +1,9 @@
 - 👋 I’m Tshediso Boshiana
 - 🏫 Graduated @ Sefako Makgatho Health Science University.
 - 📚 Majored in Computer Sciences and Statistics.
-- 👀 I’m interested in mobile and web applications development.
-- 📖 I have knowledge in HTML,CSS,C++,JavaScript,Java,SQL,Git,Linux,Unit testing,Docker & docker compose, ExpressJS and much more.
-- 📫 Email: tshedisoboshiana@gmail.com
+- 👀 I develop mobile and web applications. 
 - 🌐 Website: https://tshedisob.github.io
+- 📜 Projects: https://projects-5584f.web.app/
 
 <!---
 TshedisoB/TshedisoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
