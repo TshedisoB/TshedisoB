@@ -5,7 +5,7 @@
 - 🌐 Website: [My Profile](https://tshedisob.github.io)
 - 📜 Projects: [Some of my projects](https://projects-5584f.web.app/)
 - 👷‍♂️ Currently working @ [Bridge labs](https://bridgelabs.design/)
-- 🛠 Using Next.js + TypeScript + TailWind + React Native to maintain, fix bugs and build new features.
+- 🛠 Using Next.js + TypeScript + TailWind + React Native + .Net to maintain, fix bugs and build new features.
 
 <!---
 TshedisoB/TshedisoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
